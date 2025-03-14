@@ -15,8 +15,8 @@ For a deeper breakdown of the AI model's performance, challenges, and potential 
 
 **1. Clone the Repository**
 First, open a terminal (Command Prompt, PowerShell, or Terminal) and run:
-``` git clone https://github.com/YOUR_GITHUB_USERNAME/TetrisAI.git
-cd TetrisAI ```
+git clone https://github.com/YOUR_GITHUB_USERNAME/TetrisAI.git
+cd TetrisAI
 
 **2. Create a Virtual Environment (Recommended)**
 A virtual environment helps keep dependencies isolated:
