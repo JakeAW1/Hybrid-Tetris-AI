@@ -35,25 +35,33 @@ source venv/bin/activate
 ```
 **3. Install Dependencies**
 Once inside the project folder, install the required Python libraries using:
+```
 pip install -r requirements.txt
+```
 If you don’t have pip installed, you can install it first with:
+```
 python -m ensurepip --default-pip
-
+```
 **4. Verify Installation**
 To check if dependencies were installed correctly, run:
+```
 pip list
+```
 Make sure essential libraries like PyTorch, NumPy, OpenCV, and Matplotlib are listed.
 
 **5. Running the AI Model**
 Now, you can execute the AI model with:
-python main.py
-
+```
+python TetrisAI.py
+```
 **6. (Optional) Troubleshooting Installation Issues**
 If an error occurs, try upgrading pip and reinstalling:
+```
 python -m pip install --upgrade pip
 pip install -r requirements.txt
-
+```
 If a specific library fails, install it manually:
+```
 pip install torch numpy opencv-python matplotlib
-
+```
 
