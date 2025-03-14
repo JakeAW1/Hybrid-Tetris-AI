@@ -12,6 +12,7 @@ For a deeper breakdown of the AI model's performance, challenges, and potential 
 **Requirements.txt will contain all required packages to run the environment.**
 
 **Step-by-Step Guide to install dependencies for TetrisAI**
+
 **1. Clone the Repository**
 First, open a terminal (Command Prompt, PowerShell, or Terminal) and run:
 git clone https://github.com/YOUR_GITHUB_USERNAME/TetrisAI.git
