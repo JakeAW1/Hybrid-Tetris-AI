@@ -15,22 +15,24 @@ For a deeper breakdown of the AI model's performance, challenges, and potential 
 
 **1. Clone the Repository**
 First, open a terminal (Command Prompt, PowerShell, or Terminal) and run:
-(```sh
+```
 git clone https://github.com/YOUR_GITHUB_USERNAME/TetrisAI.git
 
-cd TetrisAI)
-
+cd TetrisAI
+```
 **2. Create a Virtual Environment (Recommended)**
 A virtual environment helps keep dependencies isolated:
 
 **Windows:**
+```
 python -m venv venv
 venv\Scripts\activate
-
+```
 **Mac/Linux:**
+```
 python3 -m venv venv
 source venv/bin/activate
-
+```
 **3. Install Dependencies**
 Once inside the project folder, install the required Python libraries using:
 pip install -r requirements.txt
